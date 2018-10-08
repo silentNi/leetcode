@@ -4,7 +4,7 @@
  */
 /***
  * 题目来源： https://leetcode.com/problems/two-sum/description/
- * 时间复杂度o(n)
+ * 时间复杂度 O(N) 空间复杂度 O(N)
  * 思路：
  * 解：
  */
